@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@400;600&family=Roboto:wght@300&display=swap');
+
+.Home{
+  padding-top: 90px;
+  margin-top: 15px;
+  background-color: #f7f5fd;
+}
+
+/* .left_side{
+  padding-right: 40px;
+  width: 466px;
+} */
+
+h1{
+  color: #2D2D2D;
+  font-family: 'Poppins', sans-serif;
+  font-style: bold;
+  font-weight: 1000px;
+  font-weight: bolder;
+  font-size: 80px;
+  line-height: 90px;
+}
+p{
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 32px;
+  color: #2d2d2d;
+  margin-top: 25px;
+
+}
+.button{
+padding: 20px 49px;
+border: none;
+background-color: #f8d57e;
+border-radius: 10px;
+margin-top: 40px;
+font-weight: 500;
+font-size: 18px;
+color: #2d2d2d;
+line-height: 32px;
+transition: all 0.3s ease-in-out;
+transform: translateY(0px);
+outline: 5px solid #f8d57e;
+outline-offset: -10px;
+
+
+}
+.button:hover{
+  transform: translateY(-10px);
+    background-color: transparent;
+
+}
+.img{
+  /* margin-left: 80px; */
+  border: none;
+  border-radius: 15px
+  
+}
+
+.allhome{
+  background-color: #f7f5fd;
+}

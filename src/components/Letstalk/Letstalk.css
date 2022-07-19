@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@600&family=Roboto:wght@300&display=swap');
+.letscss{
+  height: 570px;
+  padding-top: 90px;
+  margin-top: 0px;
+  background-color: #fcfaf5;
+  
+}
+
+.allletstalk{
+  background-color: #fcfaf5;
+  
+}
+.letstalkpara{
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
+  color: #a9a8a5;
+  word-spacing: 3px;
+  
+  width: 350px;
+}
+
+.letstalktitle{
+  font-family: 'Poppins', sans-serif;
+  font-size: 80px;
+  color: #2d2d2d;
+  line-height: 90px;
+  font-weight: bolder;
+  font-weight: 1000px;
+  letter-spacing: 1.5px;
+}
+
+.letstalkbtn{
+  padding: 20px 49px;
+border: none;
+background-color: #f8d57e;
+border-radius: 10px;
+margin-top: 40px;
+font-weight: 500;
+font-size: 18px;
+color: #2d2d2d;
+line-height: 32px;
+transition: all 0.3s ease-in-out;
+transform: translateY(0px);
+outline: 5px solid #f8d57e;
+outline-offset: -10px;
+
+}
+.letstalkbtn:hover{
+  transform: translateY(-10px);
+    background-color: transparent;
+
+}

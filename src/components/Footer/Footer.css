@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@600&family=Roboto:wght@300&display=swap');
+
+footer{
+  padding-bottom: 40px;
+}
+
+h6{
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+}
+input{
+  padding: 11px 90px 11px  20px;
+  border: 1px solid #D0D0D0;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-right: auto;
+
+}
+::placeholder {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;  
+  color: #2d2d2d;
+}
+
+.sendbtn{
+  padding: 10px 35px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 0px 3px;
+  background: #3366ff;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  transition: all 0.3s ease-in-out;
+  transform: translateY(0px);
+  outline: 5px solid #3366ff;
+  outline-offset: -5px;
+}
+
+.sendbtn:hover{
+  transform: translateY(-5px);
+  background-color: transparent;
+  color: #2d2d2d;
+}
+
+.terms{
+  margin-top: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+a{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 32px;
+}
+
+.story a,.care a,.Shop a{
+  display: flex;
+  text-decoration: none;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 450;
+  font-size: 18px;
+  line-height: 32px;
+  color: #3a3a3a;
+  margin-left: 40px;
+
+}
+
+
+h3{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 32px;
+  cursor: pointer;
+  margin-top: 80px;
+  margin-left: 40px;
+}
+
+.Socialicons{
+  cursor: pointer;
+display: flex;
+justify-content: flex-end;
+  
+}
+ 
+.imgfooter{
+  margin-bottom: 100px;
+  margin-top: 80px;
+}
+
+
+

@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@600&family=Roboto:wght@300&display=swap');
+
+
+.all{
+  background-color: #ece7fb;
+}
+
+
+.UserI{
+  
+  height: 600px;
+  left: 0px;
+  right: 0px;
+  top: 2000px;
+  margin-top: 70px;
+  padding: 50 120px;
+}
+
+.photoUser{
+  display: flex;
+  padding-left: 95px;
+  
+  
+}
+.picture{
+  position: relative;
+  right: 354px;
+  border: 2px solid;
+  border-color: #a4a1ad;;
+  border-radius: 50%;
+  margin-top: 85px;
+  
+}
+.cycle{
+  margin-top: 85px;
+}
+
+
+
+.paragraph{
+  font-family: 'Poppins';
+  font-size: 18px;
+  color: #2d2d2d;
+  width: 74%;
+}
+
+.Dylan{
+  font-family: 'Poppins 400';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 36px;
+  color: #a4a1ad;
+  margin-top: 45px;
+}
+.text{
+  margin-top: 70px;
+  padding-right: 40px;
+}
